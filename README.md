@@ -18,3 +18,13 @@ A proxy must respond to request within 15 second and it has 3 attempts to do so.
 ### Is it guaranteed that the proxies from the list will work?
 
 Nope. Any proxy from the `ProxyList.txt` can actually stop to work or stop to respond to requests anytime between the update interval.
+
+### Where is the source code of the this proxy generator?
+
+This proxy generator is created by PowerShell and its syntax is close-source hosted in one of my private repository.
+
+## Release notes
+
+### 2021-04-11
+
+* Add Pzzqz.com as a source of proxy
