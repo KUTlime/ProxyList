@@ -25,6 +25,10 @@ This proxy generator is created by PowerShell and its syntax is close-source hos
 
 ## Release notes
 
+### 2021-09-29
+
+* Update backend to .NET 6 => **HTTPS, SOCKS** support ❗❗❗
+
 ### 2021-09-05
 
 * Add 3rd level of verification (a response within 10 seconds to one czech eshop)
