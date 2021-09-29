@@ -4,8 +4,7 @@
 
 ## About
 
-This list is an aggregation of several other resources of public proxy lists. Even proxies from online lists like `www.freeproxy.net` which were tested couple second ago didn't worked for me.  
-The resource aggregation, the availability test and the list publishing is done every day.
+This list is an aggregation of several other resources of public proxy lists. Even proxies from online lists like `www.freeproxy.net` which were tested couple second ago didn't worked for me. The resource aggregation, the availability test and the list publishing is done every day.
 
 ### Why this list?
 
@@ -13,7 +12,7 @@ I wasn't able to find any easy-to-download and reliable resource of public proxi
 
 ### How is the availability of proxy tested?
 
-A proxy must respond to request within 15 second and it has 3 attempts to do so. The target is `www.seznam.cz`.
+A proxy must respond to request within 10 second and it has 3 attempts to do so. The target is `www.seznam.cz`. The second level is a random web server from a pool of server hosted by same provider. The third level is one particular Czech eshop.
 
 ### Is it guaranteed that the proxies from the list will work?
 
