@@ -34,10 +34,10 @@ This proxy generator is created by PowerShell and its syntax is close-source hos
 * Add 3rd level of verification (a response within 10 seconds to one czech eshop)
 * Update 2nd level of verification (a response withing from 15 to 10 second)
 
-### 2021-04-11
-
-* Add Pzzqz.com as a source of proxy
-
 ### 2021-04-12
 
 * Add ProxyBroker to the proxy generator to find some additional proxies from various resources
+
+### 2021-04-11
+
+* Add Pzzqz.com as a source of proxy
